@@ -7,7 +7,6 @@ Technically, I enjoy working with:
 - Python and TCL scripting for automation and test pattern generation
 - Embedded C, STM32, Arduino, and microcontroller-level programming
 - Applied machine learning, especially in embedded and edge contexts
-- Web development with HTML, CSS, JS, Flask, and data-driven dashboards
 
 When I'm not building or debugging, I enjoy spending time with my cat Miso, doing art, reading, running, and tuning into the latest Grand Prix. 
 
